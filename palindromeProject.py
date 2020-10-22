@@ -1,6 +1,4 @@
-#Andres Pena
 #Project Euler 4
-# 4/4/2018
 #Ran on python 3.6
 
 

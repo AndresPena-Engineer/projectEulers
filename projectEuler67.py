@@ -1,5 +1,3 @@
-#Andres Pena 
-#5/28/2018
 #Project Euler 67
 #Python 2.7.14
 
